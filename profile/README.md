@@ -14,4 +14,4 @@ Welcome to my DevOps learning space.
 - ci-cd-pipelines
 
 ---
-Built by Ansh Chawla
+Built by Hritick Chawla
